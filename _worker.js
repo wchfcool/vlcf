@@ -18,9 +18,9 @@ let apiToken = ''; //abcdefghijklmnopqrstuvwxyz123456
 
 let apiHost = ''; // api.v2board.com
 
-if (!isValidUUID(userID)) {
-    throw new Error('uuid is not valid');
-}
+//if (!isValidUUID(userID)) {
+//    throw new Error('uuid is not valid');
+//}
 
 export default {
     /**
